@@ -12,3 +12,4 @@ I'm a Software development engineer in a French banking company, and I love lear
 - C# .NET
 - COBOL
 - SQL
+- REST API
