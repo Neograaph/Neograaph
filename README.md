@@ -13,4 +13,7 @@ I'm a Software development engineer in a French banking company, and I love lear
 - C# .NET
 - COBOL
 - SQL / MongoDB NoSQL
+- Docker
+- Proxmox
+- Nginx Proxy Manager
 - REST API
