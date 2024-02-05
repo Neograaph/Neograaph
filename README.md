@@ -9,7 +9,8 @@ I'm a Software development engineer in a French banking company, and I love lear
 
 - PhP Symfony
 - TypeScript Angular / VueJS
+- Python Django
 - C# .NET
 - COBOL
-- SQL
+- SQL / MongoDB NoSQL
 - REST API
