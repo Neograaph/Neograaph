@@ -8,12 +8,12 @@ I'm a Software development engineer in a French banking company, and I love lear
 ### Software knowledge :
 
 - PhP Symfony
-- TypeScript Angular / VueJS
+- JavaScript - TypeScript Angular / VueJS
 - Python Django
 - C# .NET
 - COBOL
 - SQL / MongoDB NoSQL
-- Docker
+- Docker - Portainer - Rancher
 - Proxmox
-- Nginx Proxy Manager
+- ReverseProxy - Nginx Proxy Manager / Traefik
 - REST API
