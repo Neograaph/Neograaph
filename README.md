@@ -13,7 +13,7 @@ I'm a Software development engineer in a French banking company, and I love lear
 - C# .NET
 - COBOL
 - SQL / MongoDB NoSQL
-- Docker - Portainer - Rancher
+- Docker - Portainer - kubernetes - Rancher
 - Proxmox
 - ReverseProxy - Nginx Proxy Manager / Traefik
 - REST API
