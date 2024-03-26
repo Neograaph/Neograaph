@@ -11,9 +11,10 @@ I'm a Software development engineer in a French banking company, and I love lear
 - JavaScript - TypeScript Angular / VueJS
 - Python Django
 - C# .NET
-- COBOL
+- COBOL - IBM AS400
 - SQL / MongoDB NoSQL
+- DB OLTP - OLAP
 - Docker - Portainer - kubernetes - Rancher
-- Proxmox
+- Proxmox - VMWare - VirtualBox
 - ReverseProxy - Nginx Proxy Manager / Traefik
 - REST API
