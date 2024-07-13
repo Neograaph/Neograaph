@@ -8,7 +8,7 @@ I'm a Software development engineer in a French banking company, and I love lear
 ### Software knowledge :
 
 - PhP Symfony
-- JavaScript - TypeScript Angular / VueJS
+- JavaScript - TypeScript Angular / VueJS / REACT
 - Python Django
 - C# .NET
 - COBOL - IBM AS400
