@@ -4,17 +4,3 @@ I'm a Software development engineer in a French banking company, and I love lear
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Neograaph)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-08C6F5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-gauthier45/)
-
-### Software knowledge :
-
-- PhP Symfony
-- JavaScript - TypeScript Angular / VueJS / REACT
-- Python Django
-- C# .NET
-- COBOL - IBM AS400
-- SQL / MongoDB NoSQL
-- DB OLTP - OLAP
-- Docker - Portainer - kubernetes - Rancher
-- Proxmox - VMWare - VirtualBox
-- ReverseProxy - Nginx Proxy Manager / Traefik
-- REST API
