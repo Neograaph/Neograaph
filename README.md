@@ -4,7 +4,7 @@ I'm a Software Development Engineer working in a French banking company. I am pa
 
 In my free time, I enjoy exploring new programming languages, building small apps to automate mundane tasks, and collaborating with the community. I'm also interested in topics like machine learning, web development, and cloud computing.
 
-## 🛠️ Fav Tech Stack
+## 🛠️ 𝙵𝚊𝚟 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 - **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 - **Tools**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Neograaph)
@@ -16,7 +16,7 @@ Here are a few projects I've worked on recently:
 - **[Task Automator](https://github.com/Neograaph/TaskAutomator)**: Automation tool written in Python to streamline repetitive tasks at work.
 -->
 
-## 🌱 About Me
+## 🌱 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🔭 I’m currently working on improving my cloud computing skills.
 - 🌱 I’m always looking to learn more about AI and ML.
 - 💾 I’m fascinated by topics around NAS (Network Attached Storage).
