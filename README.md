@@ -4,7 +4,7 @@
 
 I'm a Software Development Engineer working in a French banking company. I am passionate about technology, solving complex problems, and constantly learning new things through side projects. 🚀
 
-In my free time, I enjoy exploring new programming languages, building small apps to automate mundane tasks, and collaborating with the community. I'm also interested in topics like machine learning, web development, and cloud computing.
+In my free time, I enjoy exploring new programming languages, building apps for me or my friends to automate mundane tasks.
 
 ## 🛠️ 𝙵𝚊𝚟 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -19,7 +19,6 @@ Here are a few projects I've worked on recently:
 -->
 
 ## 🌱 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 💾 I’m always looking to learn more about NAS (Network Attached Storage).
 - 🔭 I’m currently working on improving my cloud computing skills.
-- 🌱 I’m always looking to learn more about AI and ML.
-- 💾 I’m fascinated by topics around NAS (Network Attached Storage).
-- 💼 I’m available on [![Linkedin](https://img.shields.io/badge/-Linkedin-08C6F5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-gauthier45/)
+- 💼 Connect with me on [![Linkedin](https://img.shields.io/badge/-Linkedin-08C6F5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-gauthier45/)
