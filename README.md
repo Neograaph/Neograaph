@@ -2,7 +2,7 @@
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRmYzJudWM3cWptMmRmazhrNXJla3UzMm1wcTlsNXg4MG51djE3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6xE1FNcorRInS/giphy.gif" alt="Hi" title="Hi"/>
 
-I'm a Software Development Engineer working in a French banking company. I am passionate about technology, solving complex problems, and constantly learning new things through side projects. 🚀
+I'm a Software Development Engineer working in a French banking company. I am passionate about technology, solving problems, and constantly learning new things through side projects. 🚀
 
 In my free time, I enjoy exploring new programming languages, building apps for me or my friends to automate mundane tasks.
 
