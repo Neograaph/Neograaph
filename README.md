@@ -4,9 +4,8 @@
 
 I'm a Software Development Engineer working in a French banking company. I am passionate about technology, solving problems, and constantly learning new things through side projects. 🚀
 
-In my free time, I enjoy exploring new programming languages, building apps for me or my friends to automate mundane tasks.
-
-🎉 Check out my latest project, **[HiFive.fr](https://hifive.fr)**, 🚀 Feel free to take a look!
+Want to work together ?
+➡️ **[maximegauthier.fr](https://maximegauthier.fr)**
 
 ## 🛠️ 𝙵𝚊𝚟 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
