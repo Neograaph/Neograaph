@@ -4,10 +4,10 @@ I'm a Software Development Engineer working in a French banking company. I am pa
 
 Want to work together ?
 
-➡️[maximegauthier.fr](https://maximegauthier.fr)
+➡️ [maximegauthier.fr](https://maximegauthier.fr)
 
 Let's talk !
 
-➡️[linkedIn](https://www.linkedin.com/in/maxime-gauthier45/)
+➡️ [linkedIn](https://www.linkedin.com/in/maxime-gauthier45/)
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRmYzJudWM3cWptMmRmazhrNXJla3UzMm1wcTlsNXg4MG51djE3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6xE1FNcorRInS/giphy.gif" alt="Hi" title="Hi"/>
