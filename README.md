@@ -1,6 +1,6 @@
 # Hi, I'm Maxime <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-I'm a Software Development Engineer working in a French banking company. I am passionate about technology, solving problems, and constantly learning new things through side projects. 🚀
+I'm a Software Development Engineer. I am passionate about technology, solving problems, and constantly learning new things through side projects. 🚀
 
 Want to work together ?
 
